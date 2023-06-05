@@ -1,5 +1,7 @@
 ## 概要
-第30回高専プロコンのソルバとゲームサーバです。これは実際に本番で使ったものではなく後輩向けの講義用にOpenSiv3Dを使って作り直したものです。このソルバに思考エンジンは積んでません。思考エンジンを積んだ本番で使用したソースコードは[procon29](https://github.com/Pumpkin1e18/procon29-public)や[procon30](https://github.com/Pumpkin1e18/procon30-public)においてます。
+第30回高専プロコンのソルバとゲームサーバです。
+
+これは実際に本番で使用したものではなく後輩の勉強用にOpenSiv3Dを使って作り直したものです。思考エンジンを積んだ本番で使用したソースコードは[procon29](https://github.com/Pumpkin1e18/procon29-public)や[procon30](https://github.com/Pumpkin1e18/procon30-public)においてます。
 
 
 ## 使い方
